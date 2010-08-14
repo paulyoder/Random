@@ -269,10 +269,10 @@ a:hover {
 	}
 	
 /************************************************
-*	Bottom Sidebars					     		* 
+*	Home Content Sidebars					     		* 
 ************************************************/
 
-#bottom {
+#home_content {
 	background: #EDEDED url(images/homebottom.png) top no-repeat;
 	width: 780px;
 	margin: 0px auto 0px;
@@ -282,12 +282,12 @@ a:hover {
 	clear: both;
 	}
 
-#bottom p {
+#home_content p {
 	padding: 0px 0px 0px 0px;
 	margin: 0px;
 	}
 	
-#bottom h2 {
+#home_content h2 {
 	color: #000000;
 	font-size: 18px;
 	font-family: Times New Roman, Georgia, Arial;
@@ -296,7 +296,7 @@ a:hover {
 	padding: 5px 0px 0px 0px;
 	}
 	
-#bottom h2 a, #bottom h2 a:visited  {
+#home_content h2 a, #home_content h2 a:visited  {
 	color: #000000;
 	text-decoration: none;
 	margin: 0px 0px 10px 0px;
@@ -308,19 +308,19 @@ a:hover {
 	text-decoration: none;
 	}
 	
-#bottom img{
+#home_content img{
 	float: left;
 	border: none;
 	margin: 0px 0px 10px 0px;
 	}
 	
-#bottom ul{
+#home_content ul{
 	list-style-type: square;
 	margin: 0px 0px 0px 0px;
 	padding: 0px 0px 0px 0px;
 	}
 	
-#bottom ul li{
+#home_content ul li{
 	list-style-type: square;
 	margin: 0px 0px 0px 20px;
 	padding: 0px 0px 0px 0px;
