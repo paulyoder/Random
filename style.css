@@ -875,9 +875,18 @@ blockquote {
 	line-height: 20px;
 	}
 	
+#footer h3 {
+	font-family: Arial, Tahoma, Verdana;
+	font-size: 14px;
+	color: #820000;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px 10px;
+}
+
 #footer p {
 	color: #555555;
-	font-size: 11px;
+	font-size: 14px;
 	font-family: Arial, Tahoma, Verdana;
 	margin: 0px;
 	padding: 0px 10px 0px 10px;
