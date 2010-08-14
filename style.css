@@ -136,6 +136,9 @@ a:hover {
 	text-decoration: none;
 	}
 	
+#headerright a {
+	color: #666;
+}
 /************************************************
 *	Navbar      								*
 ************************************************/
@@ -184,6 +187,10 @@ a:hover {
 	margin: 0px;
 	padding: 0px;
 	}
+
+#nav li.alignright {
+	float: right;
+}
 	
 #nav li li {
 	float: left;
