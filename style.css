@@ -31,6 +31,9 @@ body {
 	}
 .clearfix:after { content: "."; display: block; clear: both; margin: 0px; padding: 0px; height: 0; visibility: hidden; }
 	
+.clear {
+	clear: both;
+}
 #wrap {
 	background: url(images/wrap2.png) top center no-repeat;
 	width: 852px;
@@ -320,7 +323,9 @@ a:hover {
 #home_content img{
 	float: left;
 	border: none;
-	margin: 0px 0px 10px 0px;
+	margin: 5px 0px 10px 0px;
+	width: 100px;
+	height: 100px;
 	}
 	
 #home_content ul{
@@ -335,6 +340,12 @@ a:hover {
 	padding: 0px 0px 0px 0px;
 	}	
 	
+#home_content h2 .title {
+	font-family: helvetica, arial, sans-serif; 
+	color: #820000; 
+	font-size: 18px;
+}
+
 .home_content_left {
 	float: left;
 	width: 370px;
