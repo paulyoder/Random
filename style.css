@@ -56,9 +56,9 @@ a:hover {
 ************************************************/
 
 #header {
-	background: #bea57d url(images/header.png) top left;
+	background: #bea57d url(images/header.jpg) top left;
 	width: 780px;
-	height: 145px;
+	height: 125px;
 	color: #333333;
 	font-size: 24px;
 	margin: 0px auto 0px;
@@ -333,7 +333,7 @@ a:hover {
 	padding: 20px 0px 0px 20px;
 	overflow: hidden;
 	}
-	
+ 	
 .home_content_right {
 	float: right;
 	width: 350px;
