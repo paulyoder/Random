@@ -270,7 +270,7 @@ a:hover {
 	}
 	
 /************************************************
-*	Home Content Sidebars					     		* 
+*	Home Content * 
 ************************************************/
 
 #home_content {
@@ -356,9 +356,9 @@ a:hover {
 ************************************************/
 
 #content {
-	width: 780px;
-	margin: 0px auto 0px;
-	padding: 0px 0px 0px 0px;
+	width: 730px;
+	margin: 0px;
+	padding: 10px 0px 10px 60px;
 	line-height: 20px;
 	min-height: 300px;
 	}
