@@ -439,64 +439,6 @@ blockquote {
 	padding: 0px 0px 0px 0px;
 	}
 	
-#contentleft {
-	float: left;
-	width: 550px;
-	margin: 0px 0px 0px 0px;
-	padding: 20px 0px 20px 20px;
-	}
-	
-#contentleft ol {
-	margin: 0px 0px 0px 5px;
-	padding: 0px 0px 15px 0px;
-	}
-	
-#contentleft ol li {
-	margin: 0px 0px 0px 20px;
-	padding: 0px 0px 0px 0px;
-	}
-	
-#contentleft ul {
-	list-style-type: square;
-	margin: 0px 0px 0px 0px;
-	padding: 0px 0px 15px 0px;
-	}
-	
-#contentleft ul li {
-	list-style-type: square;
-	margin: 0px 0px 0px 20px;
-	padding: 0px 0px 0px 0px;
-	}
-	
-#contentright {
-	float: right;
-	width: 550px;
-	margin: 0px 0px 0px 0px;
-	padding: 20px 20px 20px 0px;
-	}
-	
-#contentright ol {
-	margin: 0px 0px 0px 5px;
-	padding: 0px 0px 15px 0px;
-	}
-	
-#contentright ol li {
-	margin: 0px 0px 0px 20px;
-	padding: 0px 0px 0px 0px;
-	}
-	
-#contentright ul {
-	list-style-type: square;
-	margin: 0px 0px 0px 0px;
-	padding: 0px 0px 15px 0px;
-	}
-	
-#contentright ul li {
-	list-style-type: square;
-	margin: 0px 0px 0px 20px;
-	padding: 0px 0px 0px 0px;
-	}
-		
 .archive {
 	float: left;
 	width: 250px;
